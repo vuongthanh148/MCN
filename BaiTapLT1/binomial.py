@@ -29,7 +29,7 @@ def approxEntropy(N, p):
     sum /= N
     return sum
     '''
-    Khi N đủ lớn thì approxEntropy sẽ xấp xỉ với Entropy của nguồn tin geometric
+    Khi N đủ lớn thì approxEntropy sẽ xấp xỉ với Entropy của nguồn tin binomial
     '''
 
 '''
